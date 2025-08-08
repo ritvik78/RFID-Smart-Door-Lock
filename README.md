@@ -117,7 +117,7 @@ NO            YES     → YES: Unlock
 
 >![CIRCUIT DIAGRAM](https://github.com/user-attachments/assets/1fc85702-566e-4420-97ad-88f767554480)
  
-> ![HARDWARE IMAGE](https://github.com/user-attachments/assets/853733c1-bb54-4f9e-918c-215d932ddab1)
+> ![HARDWARE IMAGE](https://github.com/ritvik78/RFID-Smart-Door-Lock/blob/main/HARDWARE%20IMAGE.jpg)
 
 
 ---
