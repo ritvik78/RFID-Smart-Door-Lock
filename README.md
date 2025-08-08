@@ -101,9 +101,10 @@ NO            YES     → YES: Unlock
 |-------------------|-------------|
 | Rithik Verma      | 102399003   |
 | Jaskaran Singh    | 102399002   |
+| Abhilasha Tiwari  | 102399001   |
 | Dhruv Singh Jaat  | 102219042   |
 | Archit Khurana    | 102269010   |
-| Abhilasha Tiwari  | 102399001   |
+
 
 **Department**: Electrical & Instrumentation Engineering  
 **Institution**: Thapar Institute of Engineering & Technology, Patiala  
