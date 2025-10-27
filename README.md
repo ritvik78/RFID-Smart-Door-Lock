@@ -6,7 +6,7 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 
 A smart, secure, and contactless access control system built using Arduino, RFID RC522, and a servo motor. Designed for both residential and commercial spaces, this project enhances safety and user convenience.
 
-![Project Demo](![CIRCUIT DIAGRAM](https://github.com/user-attachments/assets/406d4f53-e8d0-420f-8ca0-0a6f80adfa6b)) 
+![Project Demo](![CIRCUIT DIAGRAM](https://github.com/ritvik78/RFID-Smart-Door-Lock/blob/main/CIRCUIT%20DIAGRAM.jpg)) 
 *Illustration for reference only.*
 
 ---
