@@ -8,7 +8,7 @@ A smart, secure, and contactless access control system built using Arduino, RFID
 
 ![Project Demo](![CIRCUIT DIAGRAM](https://github.com/ritvik78/RFID-Smart-Door-Lock/blob/main/CIRCUIT_DIAGRAM.jpg)) 
 *Illustration for reference only.*
-<img src="https://github.com/ritvik78/RFID-Smart-Door-Lock/blob/main/CIRCUIT_DIAGRAM.jpg">
+
 ---
 
 ## 🎯 Aim
