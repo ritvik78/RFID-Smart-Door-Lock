@@ -1,10 +1,9 @@
 # RFID-Smart-Door-Lock
 Welcome to the Smart Door Lock Security System project repository! This open-source project focuses on enhancing traditional door locking systems using the power of IoT (Internet of Things) technology. By combining the NodeMCU ESP8266 microcontroller with the Blynk app platform.
 
-```markdown
+
 # 🔐 Automatic Door Lock System using RFID RC522
 
-A smart, secure, and contactless access control system built using Arduino, RFID RC522, and a servo motor. Designed for both residential and commercial spaces, this project enhances safety and user convenience.
 
 ![Project Demo](https://github.com/ritvik78/RFID-Smart-Door-Lock/blob/main/CIRCUIT_DIAGRAM.jpg) 
 *Illustration for reference only.*
