@@ -45,7 +45,7 @@ To design and develop a **prototype of an RFID-based automatic door lock system*
    - If UID is **unauthorized** → Access denied.
 4. **Feedback**: Display messages via Serial Monitor.
 
-
+---
 
 START → Initialise Modules → Scan Card
 ↓               ↓
@@ -54,7 +54,7 @@ Card Detected? → Read UID → Authorized?
 NO            YES     → YES: Unlock
 → NO: Deny
 
-
+---
 
 ---
 
